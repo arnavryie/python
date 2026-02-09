@@ -1,0 +1,5 @@
+print("Addition of two numbers")
+x = int(input("Enter value of x: "))
+y = int(input("Enter value of y: "))
+print(f"Addition of {x} & {y} = {x + y}")
+print ("{x+y}")
